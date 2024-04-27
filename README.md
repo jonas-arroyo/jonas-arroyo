@@ -22,7 +22,6 @@ My name is Jonas and I'm a Marketing Automation Developer for Love's Travel Stop
     <li>Motion Pictures 🎥</li>
     <li>Reading 📚</li>
     <li>Working Out 🏃🏻</li>
-    <li>Meditation 🧎🏻</li>
     <li>Playing with my Dogs 🐾</li>
   </ul>
 
